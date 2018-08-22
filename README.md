@@ -5,7 +5,7 @@ A Pytorch implementation of ["Deep Learning with Logged Bandit Feedback"](http:/
 * Pytorch 0.3.0
 
 # Prepare Dataset
-Download CIFAR 10 Python version from this [this page](https://www.cs.toronto.edu/~kriz/cifar.html) to `/data`.\
+Download CIFAR 10 Python version from this [this page](https://www.cs.toronto.edu/~kriz/cifar.html) to `/data`.
 
 Unpack the file by running
 ```
